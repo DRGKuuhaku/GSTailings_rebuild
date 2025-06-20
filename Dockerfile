@@ -1,4 +1,3 @@
-# ---------- Base image ----------
 FROM python:3.10-slim
 
 # ---------- System deps ----------
